@@ -1,0 +1,7 @@
+E:\Kerjaan\Review\Review\obj\Debug\Review.csprojAssemblyReference.cache
+E:\Kerjaan\Review\Review\obj\Debug\Review.csproj.CoreCompileInputs.cache
+E:\Kerjaan\Review\Review\bin\Debug\Review.exe.config
+E:\Kerjaan\Review\Review\bin\Debug\Review.exe
+E:\Kerjaan\Review\Review\bin\Debug\Review.pdb
+E:\Kerjaan\Review\Review\obj\Debug\Review.exe
+E:\Kerjaan\Review\Review\obj\Debug\Review.pdb
